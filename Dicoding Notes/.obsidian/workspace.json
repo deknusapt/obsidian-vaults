@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "548a2e8dd99c27a9",
+        "id": "1d69ee071da10fba",
         "type": "tabs",
         "children": [
           {
-            "id": "d640b57602ef9e4a",
+            "id": "eec0c3e18ef72b38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Programming Fundamental/02. Intro & In-depth HTML.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "10d218bcc130d8ce",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Programming Fundamental/02. Intro & In-depth HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Programming Fundamental/02. Intro & In-depth HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web Programming Fundamental/02. Intro & In-depth HTML.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d640b57602ef9e4a",
+  "active": "eec0c3e18ef72b38",
   "lastOpenFiles": [
     "Web Programming Fundamental/02. Intro & In-depth HTML.md",
     "Web Programming Fundamental/01. Introduction to Web.md",
