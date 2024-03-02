@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web Programming Fundamental/02. Intro & In-depth HTML.md",
+                "file": "Programming/Web Programming Fundamental/01. Introduction to Web.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web Programming Fundamental/03. Intro & In-depth CSS.md",
+                "file": "Programming/Web Programming Fundamental/01. Introduction to Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web Programming Fundamental/03. Intro & In-depth CSS.md",
+                "file": "Programming/Web Programming Fundamental/01. Introduction to Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web Programming Fundamental/03. Intro & In-depth CSS.md"
+                "file": "Programming/Web Programming Fundamental/01. Introduction to Web.md"
               }
             }
           }
@@ -160,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "262a1ef1018487d2",
+  "active": "bc37066dd6fe48bf",
   "lastOpenFiles": [
     "Programming/Web Programming Fundamental/02. Intro & In-depth HTML.md",
     "Programming/Web Programming Fundamental/03. Intro & In-depth CSS.md",
