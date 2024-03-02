@@ -8,11 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eec0c3e18ef72b38",
+            "id": "d45d6086b0ef063b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web Programming Fundamental/02. Intro & In-depth HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8668cde235693511",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Programming Fundamental/03. Intro & In-depth CSS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "10d218bcc130d8ce",
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web Programming Fundamental/02. Intro & In-depth HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web Programming Fundamental/02. Intro & In-depth HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web Programming Fundamental/02. Intro & In-depth HTML.md"
+              }
             }
           }
         ]
@@ -138,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eec0c3e18ef72b38",
+  "active": "d45d6086b0ef063b",
   "lastOpenFiles": [
+    "Web Programming Fundamental/03. Intro & In-depth CSS.md",
     "Web Programming Fundamental/02. Intro & In-depth HTML.md",
     "Web Programming Fundamental/01. Introduction to Web.md",
     "().md",
