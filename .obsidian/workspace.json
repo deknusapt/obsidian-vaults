@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "65e85736880add59",
+        "id": "cc93c0cba9fdf629",
         "type": "tabs",
         "children": [
           {
-            "id": "33a2f319f3e4dd3f",
+            "id": "fb9f4c62e6a6c194",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Computing/Google Cloud Computing Foundations/01. Cloud Computing Fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud Computing/Google Cloud Computing Foundations/01. Cloud Computing Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cloud Computing/Google Cloud Computing Foundations/01. Cloud Computing Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cloud Computing/Google Cloud Computing Foundations/01. Cloud Computing Fundamentals.md"
+              }
             }
           }
         ]
@@ -138,12 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33a2f319f3e4dd3f",
+  "active": "fb9f4c62e6a6c194",
   "lastOpenFiles": [
+    "().md",
+    "Cloud Computing/Google Cloud Computing Foundations/01. Cloud Computing Fundamentals.md",
     "Programming/Web Programming Fundamental/02. Intro & In-depth HTML.md",
+    "Compare the.md",
+    "Cloud Computing/Google Cloud Computing Foundations",
+    "Cloud Computing",
     "Programming/Web Programming Fundamental/03. Intro & In-depth CSS.md",
     "Programming/Web Programming Fundamental/04. Responsive Layout with Flexbox.md",
-    "Programming/Web Programming Fundamental/01. Introduction to Web.md",
-    "Untitled"
+    "Programming/Web Programming Fundamental/01. Introduction to Web.md"
   ]
 }
