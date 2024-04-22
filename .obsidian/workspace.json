@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cc93c0cba9fdf629",
+        "id": "45ec143689292573",
         "type": "tabs",
         "children": [
           {
-            "id": "fb9f4c62e6a6c194",
+            "id": "be0829eceb50e3bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing/Google Cloud Computing Foundations/01. Cloud Computing Fundamentals.md",
+                "file": "Programming/Belajar Dasar JavaScript/02. Struktur Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "51f970578f9b0ae1",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/Google Cloud Computing Foundations/01. Cloud Computing Fundamentals.md",
+                "file": "Programming/Belajar Dasar JavaScript/02. Struktur Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing/Google Cloud Computing Foundations/01. Cloud Computing Fundamentals.md",
+                "file": "Programming/Belajar Dasar JavaScript/02. Struktur Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing/Google Cloud Computing Foundations/01. Cloud Computing Fundamentals.md"
+                "file": "Programming/Belajar Dasar JavaScript/02. Struktur Data.md"
               }
             }
           }
@@ -146,10 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb9f4c62e6a6c194",
+  "active": "be0829eceb50e3bc",
   "lastOpenFiles": [
+    "Programming/Belajar Dasar JavaScript/02. Struktur Data.md",
+    "Programming/Belajar Dasar JavaScript/01. Pengenalan JavaScript.md",
     "().md",
     "Cloud Computing/Google Cloud Computing Foundations/01. Cloud Computing Fundamentals.md",
+    "Programming/Belajar Dasar JavaScript",
     "Programming/Web Programming Fundamental/02. Intro & In-depth HTML.md",
     "Compare the.md",
     "Cloud Computing/Google Cloud Computing Foundations",
