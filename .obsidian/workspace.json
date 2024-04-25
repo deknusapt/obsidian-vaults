@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Programming/Belajar Dasar JavaScript/01. Pengenalan JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20ea88c7bb7eef37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Programming/Belajar Dasar JavaScript/02. Struktur Data.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a1f485e7a698133",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Belajar Dasar JavaScript/03. Pengenalan Fungsi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22562a15766bbee8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Belajar Dasar JavaScript/04. OOP JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,8 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be0829eceb50e3bc",
+  "active": "20ea88c7bb7eef37",
   "lastOpenFiles": [
+    "Programming/Belajar Dasar JavaScript/04. OOP JavaScript.md",
+    "Programming/Belajar Dasar JavaScript/03. Pengenalan Fungsi.md",
     "Programming/Belajar Dasar JavaScript/02. Struktur Data.md",
     "Programming/Belajar Dasar JavaScript/01. Pengenalan JavaScript.md",
     "().md",
